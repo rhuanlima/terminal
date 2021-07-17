@@ -1,7 +1,14 @@
+[![wakatime](https://wakatime.com/badge/github/rhuanlima/terminal.svg)](https://wakatime.com/badge/github/rhuanlima/terminal)
+# Terminal e vs code configs
 ## Terminal ZSH + OH-MY-ZSH
-
 ### Theme **imp**
 
+#### Links
+[ZSH no ubuntu](https://kifarunix.com/how-to-install-and-setup-zsh-and-oh-my-zsh-on-ubuntu-18-04/)
+[ZSH Oficial Site](https://www.zsh.org/)
+[OH-MY-ZSH](https://ohmyz.sh/)
+[Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
+#### Instalar temas
 instalar o tema na pasta:
 
 ```
@@ -48,3 +55,7 @@ instalar o tema na pasta:
 - vscode-icons-team.vscode-icons
 - WakaTime.vscode-wakatime
 - walkme.HTML5-extension-pack
+
+### Links úteis
+[WakaTime](https://wakatime.com/)
+[Copilot](https://copilot.github.com/)
