@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/github/rhuanlima/terminal.svg)](https://wakatime.com/badge/github/rhuanlima/terminal)
 # Terminal e vs code configs
+[Github](https://github.com/rhuanlima/terminal)
 ## Terminal ZSH + OH-MY-ZSH
 ### Theme **imp**
 
